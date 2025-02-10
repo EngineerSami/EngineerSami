@@ -35,6 +35,13 @@ I'm a passionate junior full-stack developer and a Software Engineering student 
   - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+## 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngineerSami&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EngineerSami&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerSami&layout=compact&theme=radical)
+
+
 ## Connect with Me
 
 - 📧 **Email:** [sami.daraghmeh1306@gmail.com](mailto:sami.daraghmeh1306@gmail.com)
