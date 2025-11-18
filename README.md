@@ -2,12 +2,11 @@
 
 ## About Me
 
-I'm a passionate junior full-stack developer and a Software Engineering student at Bolu Abant İzzet Baysal University. Originally from Palestine and currently living in Bolu, Turkey, I'm on a journey to create impactful and innovative software solutions.
+I'm a passionate junior full-stack developer, Quality Assurance, and an AI & Cybersecurity student at Arab American University. I am from Palestine and currently living in Ramallah. I'm on a journey to create impactful and innovative software solutions.
 
 - 🎉 **Birthdate:** June 13, 2006
-- 📚 **Degree:** Software Engineering
 - 🌐 **Languages:** JavaScript, Python, HTML, CSS, and more!
-- 📚 **Tech Interests:** Web development, database design, and user experience.
+- 📚 **Tech Interests:** Web development, database design, user experience, testing websites, and testing mobile apps
 
 ## Skills
 
