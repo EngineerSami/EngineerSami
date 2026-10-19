@@ -38,7 +38,7 @@ I enjoy building **scalable web applications**, **testing web & mobile systems**
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge\&logo=java\&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge\&logo=spring\&logoColor=white)
 
-![C++]([https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge\&logo=spring\&logoColor=white](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white))
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
 
